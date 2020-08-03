@@ -1,1 +1,2 @@
-# Computer-Networking-A-Top-Down-Approach-8th-edtion
+# Computer Networking:A Top Down Approach 8th-Edtion  
+Welcome to the authors' website for the textbook,Computer Networking: a Top Down Approach (Pearson). The 8th edition of our textbook has been published in the spring of 2020 - find out what's new in the 8th edition. From this page here (check out the menu at the top of the page), you can find resources and information of interest to students, teachers, and readers alike.
