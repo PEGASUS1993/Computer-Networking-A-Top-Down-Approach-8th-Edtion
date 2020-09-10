@@ -1,6 +1,8 @@
 # Computer Networking:A Top Down Approach 8th-Edtion  
 About this book
 
+
+
 Who is this book for?
 This textbook is typically used in a first course on computer networking. It has been used in computer science and electrical engineering departments, information systems and informatics departments, in business schools, and elsewhere. In terms of programming languages, the book assumes only that the student has experience with C, C++, Java, or Python (and even then only in a few places). Although this book is more precise and analytical than many other introductory computer networking texts, it rarely uses any mathematical concepts that are not taught in high school. We've made a deliberate effort to avoid using any advanced calculus, probability, or stochastic process concepts (although we’ve included some homework problems for students with this advanced background). The book is therefore appropriate for undergraduate courses and for first-year graduate courses. It should be useful to practitioners in industry as well.
 
