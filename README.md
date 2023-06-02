@@ -2,6 +2,6 @@
 
 
 # 本月要做的任务
-- [ ] 更新PPT，实验资源
-- [x] 完成部署工具的设置
+- [x] 更新PPT，实验资源
 - [ ] 增加思维导图
+- [x] 资源链接 https://gaia.cs.umass.edu/kurose_ross/index.php
